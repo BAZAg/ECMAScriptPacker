@@ -5,7 +5,7 @@ string url = @"http://site.ru/temp.js";
 
 string line = CommonCode.Start (url);
 
-
+-----
 
 
 
@@ -19,6 +19,7 @@ Site: http://dean.edwards.name/download/#packer
 Original file: http://deanedwardsoffline.appspot.com//download/packer2.net.zip
 
 -----
+
 packer, version 2.0 (beta) (2005/02/01)  
 Copyright 2004-2005, Dean Edwards  
 Web: http://dean.edwards.name/  
