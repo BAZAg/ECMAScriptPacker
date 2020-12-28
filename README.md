@@ -1,6 +1,6 @@
 // Пример вызова для генерации:
 
-string url = "http://site.ru:temp.js";
+string url = @"http://site.ru/temp.js";
 
 string line = CommonCode.Start (url);
 
