@@ -19,4 +19,5 @@
   This software is licensed under the CC-GNU LGPL  
   Web: http://creativecommons.org/licenses/LGPL/2.1  
   Ported to C# by Jesse Hansen, twindagger2k@msn.com  
+  
 -----
