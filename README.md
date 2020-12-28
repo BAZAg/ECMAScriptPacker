@@ -1,4 +1,5 @@
-// Пример вызова для генерации:
+Пример вызова для генерации:
+===========
 
 string url = @"http://site.ru/temp.js";
 
@@ -7,8 +8,10 @@ string line = CommonCode.Start (url);
 
 
 
+
+
+
 packer2.net
-===========
 
 Dean Edwards' Javascript packer app in .net form. Now with .NET 2.0 goodness.
 
