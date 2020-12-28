@@ -1,3 +1,11 @@
+// Пример вызова для генерации:
+
+string url = "http://site.ru:temp.js";
+string line = CommonCode.Start (url);
+
+
+
+
 packer2.net
 ===========
 
